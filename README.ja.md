@@ -1,6 +1,6 @@
 # 福井めくりあわせ
 
-1〜2文で説明。福井の観光スポットを題材にしためくりあわせゲームアプリです。
+福井の観光スポットを題材にしためくりあわせゲームアプリです。ゲームの進行に合わせて、自動でカードがシャッフルされます。
 
 ## デモ
 https://code4fukui.github.io/mekuriawase-fukui/
@@ -8,10 +8,10 @@ https://code4fukui.github.io/mekuriawase-fukui/
 ## 機能
 - 福井の観光スポットのイラストが表示されたカードをめくって、マッチングさせるゲーム
 - リトライボタンで新しいゲームを開始できる
+- クリアタイムが表示される
 
 ## データ
-- 福井観光スポットオープンデータ (https://github.com/code4fukui/fukui-spot)
-- フォーク元: 徳川15代めくりあわせ (https://github.com/code4fukui/mekuriawase-tkgw15/)
+このゲームでは、[福井観光スポットオープンデータ](https://github.com/code4fukui/fukui-spot)を使用しています。
 
 ## ライセンス
 MIT License

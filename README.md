@@ -1,5 +1,7 @@
 # mekuriawase-fukui
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A memory matching game featuring tourism spots in Fukui, Japan.
 
 ## Demo
