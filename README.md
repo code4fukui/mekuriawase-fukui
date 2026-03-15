@@ -1,8 +1,17 @@
-# 福井観光スポットめくりあわせ
+# mekuriawase-fukui
 
-https://code4fukui.github.io/mekuriawase-fukui/
+A memory matching game featuring tourism spots in Fukui, Japan.
 
-## reference
+## Demo
+The game is hosted at https://code4fukui.github.io/mekuriawase-fukui/
 
-- DATA: [福井観光スポットオープンデータ](https://github.com/code4fukui/fukui-spot) [CSV](https://code4fukui.github.io/fukui-spot/fuku-e-spot.csv)
-- forked from [徳川15代めくりあわせ](https://github.com/code4fukui/mekuriawase-tkgw15/)
+## Features
+- Match tourism spot images and locations in Fukui
+- Automatically shuffles images on each retry
+- Displays time taken to complete the game
+
+## Data / API
+The game uses the [Fukui Tourism Spot Open Data](https://github.com/code4fukui/fukui-spot) provided in CSV format.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
