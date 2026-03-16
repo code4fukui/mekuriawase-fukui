@@ -16,4 +16,4 @@ The game is hosted at https://code4fukui.github.io/mekuriawase-fukui/
 The game uses the [Fukui Tourism Spot Open Data](https://github.com/code4fukui/fukui-spot) provided in CSV format.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+MIT License — see [LICENSE](LICENSE).
