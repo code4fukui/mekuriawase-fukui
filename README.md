@@ -6,7 +6,7 @@ A card-flipping memory game featuring illustrations of tourist spots in Fukui, J
 
 ## Demo
 
-Play the game live at: **https://code4fukui.github.io/mekuriawase-fukui/**
+Play the game live at: **https://github.com/code4fukui/mekuriawase-fukui
 
 ## Gameplay
 

@@ -4,7 +4,7 @@
 
 ## デモ
 
-実際のゲームプレイはこちら: **https://code4fukui.github.io/mekuriawase-fukui/**
+実際のゲームプレイはこちら: **https://github.com/code4fukui/mekuriawase-fukui
 
 ## 遊び方
 
